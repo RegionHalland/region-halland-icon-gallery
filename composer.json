@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-icon-gallery",
+    "description": "Temporärt icon-galleri för vuxhalland",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
